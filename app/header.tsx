@@ -19,7 +19,7 @@ const navigation = [
   },
   {
     name: "GitHub",
-    href: "https://github.com/chronark/envshare",
+    href: "https://github.com/vishal11u",
     external: true,
   },
 ] satisfies { name: string; href: string; external?: boolean }[];
