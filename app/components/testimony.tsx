@@ -55,7 +55,7 @@ export const Testimonials = () => {
       author: {
         name: <Author href="https://twitter.com/FrederikMarkor">Frederik Markor</Author>,
         title: <Title href="https://discreet.net">CEO @discreet</Title>,
-        image: "https://byzantine.net/wp-content/uploads/2023/10/me.jpeg",
+        image: "https://media.licdn.com/dms/image/v2/C5603AQFLqTPOEI-BOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1553773926780?e=2147483647&v=beta&t=fK4xeaJYHXIAsM0w5P1YfDzoUQrRLwkh_LA1ROWqB4c",
       },
     },
     {
@@ -77,7 +77,7 @@ export const Testimonials = () => {
       author: {
         name: <Author href="https://twitter.com/steventey">Steven Tey</Author>,
         title: <Title href="https://vercel.com">Senior Developer Advocate at Vercel</Title>,
-        image: "https://avatars.githubusercontent.com/u/28986134?v=4",
+        image: "https://steventey.com/profile.jpg",
       },
     },
     {
