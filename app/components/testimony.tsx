@@ -55,7 +55,7 @@ export const Testimonials = () => {
       author: {
         name: <Author href="https://twitter.com/FrederikMarkor">Frederik Markor</Author>,
         title: <Title href="https://discreet.net">CEO @discreet</Title>,
-        image: "https://pbs.twimg.com/profile_images/1438061314010664962/NecuMIGR_400x400.jpg",
+        image: "https://byzantine.net/wp-content/uploads/2023/10/me.jpeg",
       },
     },
     {
@@ -77,7 +77,7 @@ export const Testimonials = () => {
       author: {
         name: <Author href="https://twitter.com/steventey">Steven Tey</Author>,
         title: <Title href="https://vercel.com">Senior Developer Advocate at Vercel</Title>,
-        image: "https://pbs.twimg.com/profile_images/1506792347840888834/dS-r50Je_400x400.jpg",
+        image: "https://avatars.githubusercontent.com/u/28986134?v=4",
       },
     },
     {
@@ -92,7 +92,7 @@ export const Testimonials = () => {
       link: "https://twitter.com/DesignSiddharth/status/1615293209164546048",
       author: {
         name: <Author href="https://twitter.com/DesignSiddharth">@DesignSiddharth</Author>,
-        image: "https://pbs.twimg.com/profile_images/1613772710009765888/MbSblJYf_400x400.jpg",
+        image: "https://pbs.twimg.com/profile_images/1909596463979515904/RHm5GF3x_400x400.jpg",
       },
     },
   ];
