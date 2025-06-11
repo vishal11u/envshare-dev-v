@@ -4,7 +4,7 @@ import { Testimonials } from "./components/testimony";
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-8 pb-8 md:gap-16 md:pb-16 xl:pb-24">
+    <div className="flex flex-col gap-8 pb-8 md:gap-16 md:pb-16 xl:pb-24 px-10">
       <div className="flex flex-col items-center justify-center max-w-3xl px-8 mx-auto mt-8 sm:min-h-screen sm:mt-0 sm:px-0">
         <div className="hidden sm:mb-8 sm:flex sm:justify-center">
           <Link
