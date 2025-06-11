@@ -13,6 +13,8 @@ export const Stats = asyncComponent(async () => {
     .then((res) => res.json())
     .then((json) => json.stargazers_count as number);
 
+  console.log(stars)
+
   const stats = [
     {
       label: "Documents Encrypted",
