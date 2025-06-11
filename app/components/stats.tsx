@@ -37,7 +37,7 @@ export const Stats = asyncComponent(async () => {
         {stats.map(({ label, value }) => (
           <li
             key={label}
-            className="flex items-center justify-between gap-2 px-4 py-3 overflow-hidden rounded m sm:flex-col"
+            className="flex border flex-col items-center justify-between gap-2 px-4 py-3 overflow-hidden rounded m sm:flex-col"
           >
             <dd className="text-2xl font-bold tracking-tight text-center sm:text-5xl text-zinc-200">
               {Intl.NumberFormat("en-US", { notation: "compact" }).format(value)}
